@@ -19,3 +19,8 @@
 - [Arduino] ソースコード内のUUIDは適宜変更してください。
 - [sh] スクリプトのMACアドレスはBLEを送信している端末のMACアドレスを指定します。
 - [sh] CSVファイルの保存先は適宜変更してください。
+
+## ライセンス
+
+Copyright (c) 2026 sierra
+Licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
